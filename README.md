@@ -1,1 +1,3 @@
 # learn_javascript
+
+My Journey to Javascript...
